@@ -1,6 +1,0 @@
-print('Number  Square  Square root  English')
-print('{:5}1'.format('') + '{:4}1'.format('') + '{:8}1.00'.format('') + '{:10}One'.format(''))
-print('{:5}2'.format('') + '{:4}4'.format('') + '{:8}1.41'.format('') + '{:10}Two'.format(''))
-print('{:5}3'.format('') + '{:4}9'.format('') + '{:8}1.73'.format('') + '{:8}Three'.format(''))
-print('{:5}4'.format('') + '{:4}16'.format('') + '{:7}2.00'.format('') + '{:9}Four'.format(''))
-print('{:5}5'.format('') + '{:4}25'.format('') + '{:7}2.24'.format('') + '{:9}Five'.format(''))
